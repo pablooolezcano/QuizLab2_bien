@@ -10,7 +10,7 @@
     <string name="incorrect_text">Incorrect</string>
 
     <string-array name="question_array">
-        <item>Question #1: True</item>
+        <item>Como es la vida en India: True</item>
         <item>Question #2: False</item>
         <item>Question #3: True</item>
     </string-array>
